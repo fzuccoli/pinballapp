@@ -1,7 +1,9 @@
 # pinballapp
-<<<<<<< HEAD
 
-> Single test
+Development Test based on Pinball Grid Theme:
+https://w3layouts.com/pinball-responsive-grid-style-blog-flat-web-template/
+
+I'm using NPM + VUE.js for this project.
 
 ## Build Setup
 
@@ -17,9 +19,6 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-Single Test
->>>>>>> 6b2e6552dd18f1aab2eda61d1fe6c01d55d7a148
+# Fernando Madureira Zuccoli.
+## fzuccoli@gmail.com
