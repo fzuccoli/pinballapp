@@ -5,6 +5,10 @@ https://w3layouts.com/pinball-responsive-grid-style-blog-flat-web-template/
 
 I'm using NPM + VUE.js for this project.
 
+# Fernando Madureira Zuccoli.
+## fzuccoli@gmail.com
+
+
 ## Build Setup
 
 ``` bash
@@ -20,5 +24,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 
-# Fernando Madureira Zuccoli.
-## fzuccoli@gmail.com
